@@ -4,3 +4,4 @@
 - Entity framework In memory database store
 - Repository pattern with Dependency injection
 - Unit test cases using xUnit
+- Swagger
